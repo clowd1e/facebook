@@ -1,0 +1,175 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+.conteiner {
+    width: 980px;
+    padding: 20px 0;
+}
+body {
+    background: #f0f2f5;
+    font-family: Arial, sans-serif;
+}
+main {
+    position: relative;
+    padding-bottom: 112px;
+    padding-top: 70px;
+    height: 560px;
+}
+.img1 {
+    width: 250px;
+    position: relative;
+}
+.f {
+    position: relative;
+    width: 500px;
+    margin-left: 0%;
+    margin-top: 8%;
+}
+.p1 {
+    font-size: 27px;
+    position: relative;
+    margin-top: -5%;
+}
+.form-to-login {
+    width: 396px;
+    margin: 40px 0 0;
+    float: right;
+    position: relative;
+    top: -270px;
+}
+form {
+    height: 300px;
+    position: relative;
+    border: white solid 20px;
+    right: 0%;
+    top: 10%;
+    width: 360px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0px 2px 10px rgb(204, 204, 204);
+}
+.Text{
+    font-size: 17px;
+    padding-left: 3%;
+    width: 346px;
+    height: 45px;
+    border: 1.9px solid #C2C6C2;
+    border-radius: 5px ;
+    margin: 0% 0% 3%;
+}
+.Password {
+    font-size: 17px;
+    padding-left: 3%;
+    width: 346px;
+    height: 45px;
+    border: 1.9px solid #C2C6C2;
+    border-radius:5px ;
+    margin: 0% 0% 0%;
+    top: 0%;
+}
+#button1 {
+    font-size: 20px;
+    width: 360px;
+    height: 50px;
+    border: 1.9px solid #C2C6C2;
+    border-radius: 5px;
+    margin: 3% 0% 2%;
+    top: 0%;
+    text-align: center;
+    background-color: #1877f2;
+    color: white;
+    position: relative;
+}
+.a1 {
+    position: relative;
+    left: 35%;
+    font-size: 14px;
+    color: #1877f2;
+    text-decoration: unset;
+    top: 5%;
+}
+#button1:hover {
+    background-color: #1664ca;
+}
+.Text:focus {
+    background-color: #1376f81a;
+}
+.button2 {
+    left: 27%;
+    line-height: 290%;
+    font-size: 17px;
+    background-color: #42b72a;
+    border: 0px solid white;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    width: 170px;
+    top: 10%;
+    position: relative;
+}
+.button2:hover {
+    background-color: #399c25;
+}
+.Password:focus {
+    background-color: #1376f81a;
+}
+.a2 {
+    position: relative;
+    color: black;
+    text-decoration: unset;
+    font-weight: 600;
+    font-size: 14px;
+}
+.div2 {
+    font-size: 14px;
+    text-align: center;
+    left: 33%;
+    margin-top: 25px;
+}
+.footer {
+    position: relative;
+    color: #737373;
+    font-size: 12px;
+    background-color: white;
+    margin-top: 4%;
+    width: 100%;
+}
+.g2 {
+    border-bottom: 1px solid #dadde1;
+    padding-bottom: 20px;
+    width: 360px;
+    left: 4%;
+}
+.p3 {
+    position: relative;
+    word-spacing: 5px;
+}
+.button3 {
+    font-size: 11px;
+    width: 30px;
+}
+.underline {
+    position: relative;
+    border-bottom: 1px solid #dddfe2;
+    padding-bottom: 10px;
+    width: 1000px;
+    left: -363px;
+}
+.p4 {
+    position: relative;
+    word-spacing: 15px; 
+}
+span {
+    position: relative;
+    word-spacing: 2px;
+}
+.p5 {
+    position: relative;
+}
+.div3 {
+    position: relative;
+    padding-left: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
